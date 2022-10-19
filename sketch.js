@@ -1,9 +1,13 @@
 function setup() {
-  createCanvas(800, 600);
+  createCanvas(1360, 768);
 }
 
 function draw() {
   background(imagemSpace);
   mostraNave ()
-  showMeteor()
+  showTie()
+  moveNave()
+  moveTie()
+  voltaTie()
+  voltaNave()
 }
