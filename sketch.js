@@ -1,5 +1,6 @@
 function setup() {
   createCanvas(1360, 768);
+  somGame.loop()
 }
 
 function draw() {
@@ -10,4 +11,7 @@ function draw() {
   moveTie()
   voltaTie()
   voltaNave()
+  incluipontos();
+  marcaponto()
+  verificaColisao()
 }

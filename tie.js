@@ -1,9 +1,9 @@
 //Var Tie
 let xTie = [600, 700, 300, 400, 200]
 let yTie = [100, 300, 200, 400, 500]
-let speedTie = [9, 8, 7, 10, 11]
-let cTie = 90
-let aTie = 95
+let speedTie = [10, 7, 6, 8, 7]
+let cTie = 80
+let aTie = 85
 
 let xTies = [1200, 1250, 1100, 1000, 1150]
 let yTies = [10, 150, 300, 450, 650]

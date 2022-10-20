@@ -17,5 +17,7 @@ function preload(){
   imagemTie4 = loadImage ("imagens/tie4.png")
   imagemTie5 = loadImage ("imagens/tie5.png") 
   imagemTies = [imagemTie1, imagemTie2, imagemTie3,       imagemTie4, imagemTie5]
-
+  somGame = loadSound ("Sounds/Star Wars Game.mp3");
+  somPonto = loadSound ("Sounds/Ponto.mp3");
+  somColisao = loadSound ("Sounds/Explosion.mp3");
 }
