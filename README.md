@@ -14,6 +14,11 @@ marcador amarelo que se enconta no topo da tela, e volta automaticamente para su
 Nessa primeira versão do jogo ainda não é possível disparar nas naves, apenas desviar.
 Caso seja atingido, você ouvirá o som de uma explosão e sua X-Wing volta para para a posição inicial.</p>
 
+<hr>
+<h2 align="center">Tecnologias utilizadas 🛠</h2><br>
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
+
 
 <h2 align="center">As ferramentas utilizadas</h2>
 
